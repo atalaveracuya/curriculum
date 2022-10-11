@@ -18,6 +18,7 @@ Bachiller en economía por la Universidad Nacional Federico Villarreal, con inte
 del desarrollo, microeconomía aplicada, educación y pobreza. Busco colaborar en alguno de estos proyectos, aplicando
 nuevos métodos de recolección y herramientas econométricas. Uso herramientas informáticas (stata, R, python, tableau,
 power bi, microsoft office, entre otras).
+https://www.youtube.com/watch?v=_g-0xZu9xYA
 
 ## EXPERIENCIA LABORAL
 
