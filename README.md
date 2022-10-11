@@ -1,5 +1,7 @@
 # ANDRÉS LAHUR TALAVERA CUYA
+```
 Servicios de información, investigación y capacitación.
+```
 <img src="https://raw.githubusercontent.com/atalaveracuya/curriculum/main/IMG-20190804-WA0002.jpg" style="width: 420px; height: 456px; position: center" >
 
 ```
