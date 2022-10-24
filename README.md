@@ -11,6 +11,7 @@ DNI: 44172456
 Redes sociales:
 Correo : atalaveracuya@gmail.com
 https://www.linkedin.com/in/atalaveracuya/
+https://www.facebook.com/atalaveracuya
 https://github.com/atalaveracuya
 ```
 
