@@ -1,6 +1,6 @@
 # ANDRÉS LAHUR TALAVERA CUYA
 ```
-Servicios de información, investigación y capacitación.
+Servicios de investigación, enseñanza y estudios socioeconómicos. 
 ```
 <img src="https://raw.githubusercontent.com/atalaveracuya/curriculum/main/IMG-20190804-WA0002.jpg" style="width: 420px; height: 456px; position: center" >
 
@@ -17,11 +17,7 @@ https://github.com/atalaveracuya
 
 ### **Acerca de mí**
 
-Bachiller en economía por la Universidad Nacional Federico Villarreal, con interés en la economía
-del desarrollo, microeconomía aplicada, educación y pobreza. Busco colaborar en alguno de estos proyectos, aplicando
-nuevos métodos de recolección y herramientas econométricas. Uso herramientas informáticas (stata, R, python, tableau,
-power bi, microsoft office, entre otras).
-Temas que suelo tratar: #econometría, #investigación #visualización #indicadores https://www.youtube.com/watch?v=_g-0xZu9xYA
+Bachiller en economía por la Universidad Nacional Federico Villarreal, con interés en la investigación sobre economía del desarrollo, microeconomía aplicada, educación y pobreza. Busco colaborar en alguno de estos proyectos, aplicando nuevos métodos de recolección de datos y herramientas econométricas. Uso herramientas informáticas (stata, R, python, tableau, power bi, microsoft office, entre otras). Temas a tratar: #econometría #clases #políticas #indicadores https://www.youtube.com/watch?v=_g-0xZu9xYA
 
 ## EXPERIENCIA LABORAL
 
