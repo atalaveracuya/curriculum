@@ -82,7 +82,6 @@ Profesor de reforzamiento, 2016 a la fecha
 + Gráficas sociales animadas o interactivas, con explotación de bases oficiales públicas del estado peruano
 (ENAHO, EPE, ENDES, EEA, CENSOS, entre otros), replicando informes oficiales. Uso Stata, Python, R
 Rstudio, After Effects.
-+ Clic aquí para ver un ejemplo: https://www.youtube.com/watch?v=_g-0xZu9xYA
 
 ## EDUCACIÓN
 
