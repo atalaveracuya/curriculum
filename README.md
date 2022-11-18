@@ -2,8 +2,6 @@
 ```
 Servicios de investigación, enseñanza y estudios socioeconómicos. 
 ```
-<img src="https://raw.githubusercontent.com/atalaveracuya/curriculum/main/IMG-20190804-WA0002.jpg" style="width: 420px; height: 456px; position: center" >
-
 ```
 Santiago de Surco Lima Perú
 (+51)- 9237 - 32307
