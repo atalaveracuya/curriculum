@@ -1,22 +1,21 @@
 # ANDRÉS LAHUR TALAVERA CUYA
-
 ```
-Servicios de información, investigación y capacitación.
+Servicios de investigación, enseñanza y estudios socioeconómicos. 
+```
+```
 Santiago de Surco Lima Perú
 (+51)- 9237 - 32307
 DNI: 44172456
 Redes sociales:
 Correo : atalaveracuya@gmail.com
 https://www.linkedin.com/in/atalaveracuya/
+https://www.facebook.com/atalaveracuya
 https://github.com/atalaveracuya
 ```
 
-### **Acerca de mi**
+### **Acerca de mí**
 
-Bachiller en economía por la Universidad Nacional Federico Villarreal, con interés en la investigación sobre economía
-del desarrollo, microeconomía aplicada, educación y pobreza. Busco colaborar en alguno de estos proyectos, aplicando
-nuevos métodos de recolección y herramientas econométricas. Uso herramientas informáticas (stata, R, python, tableau,
-power bi, microsoft office, entre otras).
+Soy bachiller en economía por la Universidad Nacional Federico Villarreal, con interés en la investigación sobre economía del desarrollo, microeconomía aplicada, educación y pobreza. Busco colaborar en alguno de estos proyectos, aplicando nuevos métodos de recolección de datos y herramientas econométricas. Uso herramientas informáticas (stata, R, python, tableau, Power Bi, Microsoft Office, entre otras). Temas a tratar: #econometría #clases #políticas #indicadores
 
 ## EXPERIENCIA LABORAL
 
@@ -81,7 +80,6 @@ Profesor de reforzamiento, 2016 a la fecha
 + Gráficas sociales animadas o interactivas, con explotación de bases oficiales públicas del estado peruano
 (ENAHO, EPE, ENDES, EEA, CENSOS, entre otros), replicando informes oficiales. Uso Stata, Python, R
 Rstudio, After Effects.
-+ Clic aquí para ver un ejemplo: https://www.youtube.com/watch?v=_g-0xZu9xYA
 
 ## EDUCACIÓN
 
