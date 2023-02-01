@@ -15,7 +15,7 @@ https://github.com/atalaveracuya
 
 ### **Acerca de mí**
 
-Soy bachiller en economía por la Universidad Nacional Federico Villarreal, con interés en la investigación sobre economía del desarrollo, microeconomía aplicada, educación y pobreza. Busco colaborar en alguno de estos proyectos, aplicando nuevos métodos de recolección de datos y herramientas econométricas. Uso herramientas informáticas (stata, R, python, tableau, Power Bi, Microsoft Office, entre otras). Temas a tratar: #econometría #clases #políticas #indicadores
+Bachiller en Ciencias Económicas de la Universidad Nacional Federico Villarreal con experiencia en la construcción y monitoreo de indicadores socioeconómicos. Manejo avanzado de paquetes informáticos para el análisis estadístico y econométrico: Stata, R, Python, Tableau, Power Bi, KoboCollect, entre otros. Con conocimientos en la redacción de informes y estudios. Predisposición de desarrollo laboral profesional en áreas de investigación y análisis económico.
 
 ## EXPERIENCIA LABORAL
 
